@@ -242,17 +242,17 @@ Publish the website in the given URL.
 ```
 ###
 ## OUTPUT:
-![output](./static/img/output1.png)
+![output](./static/img/o1.png)
 
-![output](./static/img/output2.png)
+![output](./static/img/o2.png)
 
-![output](./static/img/output3.png)
+![output](./static/img/o3.png)
 
-![output](./static/img/output4.png)
+![output](./static/img/o4.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.png)
+![output](./static/img/r1.png)
 
-![output](./static/img/report2.png)
+![output](./static/img/r2.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://kumaravel.student.saveetha.in:8000/. HTML code is validated.
