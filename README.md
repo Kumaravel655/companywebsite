@@ -176,7 +176,7 @@ Publish the website in the given URL.
 {% endblock  %}
 
 ```
-###PEOPLE.HTML
+### people.html:
 ```
 {% extends "website/base.html" %}
 
@@ -225,7 +225,7 @@ Publish the website in the given URL.
 {% endblock  %}
 
 ```
-###CONTACT.HTML
+### CONTACT.HTML:
 ```
 {% extends "website/base.html" %}
 
@@ -242,13 +242,17 @@ Publish the website in the given URL.
 ```
 ###
 ## OUTPUT:
-![output](./static/img/output1.jpg)
+![output](./static/img/output1.png)
 
-![output](./static/img/output2.jpg)
+![output](./static/img/output2.png)
+
+![output](./static/img/output3.png)
+
+![output](./static/img/output4.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.jpg)
+![output](./static/img/report1.png)
 
-![output](./static/img/report2.jpg)
+![output](./static/img/report2.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://kumaravel.student.saveetha.in:8000/. HTML code is validated.
